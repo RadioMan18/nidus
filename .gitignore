@@ -37,6 +37,10 @@ coverage/
 *.orig
 *.rej
 
+# Docs / plans (local only)
+marketing-plan.md
+marked-assess.md
+
 # Plugin build artifacts
 plugins/*/dist/
 plugins/*/*.zip
